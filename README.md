@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and open-source contributions.  
 - 🌱 I’m currently learning and improving my skills in full-stack development with React and Node.js.  
 - 💼 I’m open to collaborating on exciting projects.  
-- 📫 Reach me via [LinkedIn](www.linkedin.com/in/aditya-shrawat-313bb8285) .  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/aditya-shrawat-313bb8285) .  
 - ⚡ Fun fact: I can code for hours while listening to music!
 
 <!---
